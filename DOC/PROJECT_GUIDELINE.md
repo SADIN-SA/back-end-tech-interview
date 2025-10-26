@@ -131,7 +131,7 @@ Implement a Flask API with the following features:
 
 4. **Telemetry API**
    - Fields:
-     - `device_id`
+     - `device_name`
      - `value`
      - `key`
      - `timestamp`
