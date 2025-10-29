@@ -131,7 +131,7 @@ Implement a Flask API with the following features:
 
 4. **Telemetry API**
    - Fields:
-     - `device_id`
+     - `device_name`
      - `value`
      - `key`
      - `timestamp`
@@ -180,4 +180,4 @@ the result should be smiller to shown
 Implement service that:
 
 - Receives telemetry messages  
-- Stores them in the database  
+- Stores them in the database
